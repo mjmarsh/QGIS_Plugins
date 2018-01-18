@@ -7,6 +7,8 @@ Compilation of most useful QGIS plugins
 - Heatmap: creates raster for input vector layer
 - MMQGIS: Set of Python plugins for manipulating vector layers (Geocode, convert geometries, etc.)
 - Openlayers Plugin: OSM basemap
+- qgis2web: generates a web map from your current QGIS project, either as OpenLayers or Leaflet. It replicates as many aspects of the project as it can, including layers, styles (including categorized and graduated), and extent.
+- Photo2Shape: Analyze geotagged photos/images and create point shapefile from them.
 - Raster Terrain Analysis: Raster based analysis
 - Road Graph: Solves shortest path from-to
 - Spatial Query: Allows for spatial queries on vector layers
